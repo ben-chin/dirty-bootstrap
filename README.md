@@ -1,4 +1,7 @@
-dirty-bootstrap
-===============
+#Dirty Bootstrap
 
-My favourite quick and dirty boilerplate
+A quick and dirty bootstrap featuring:
+  
+  - bootstrap-sass
+  - eleganticons
+  - glyphicons
